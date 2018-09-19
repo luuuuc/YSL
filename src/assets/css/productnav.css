@@ -1,0 +1,75 @@
+
+.article-width {
+    max-width: 1300px;
+    padding: 0 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.list-content-all {
+    position: relative;
+    margin: 30px 0;
+}
+.list-content-all .list-left-nav {
+    float: left;
+    position: relative;
+    height: auto;
+    margin-right: -198px;
+    width: 198px;
+}
+ .filter-title {
+    border-bottom: 1px solid #e6e5e5;
+    /* margin-bottom: 20px; */
+}
+.filter-title p {
+    font-size: 30px;
+    color: #000;
+    margin-bottom: 40px;
+}
+.list-content-all .list-right-content {
+    float: left;
+    width: 100%;
+}
+.list-content-all .list-right-content>div {
+    position: relative;
+    margin-left: 218px;
+}
+.list-content-all .list-right-content .list-box .top-paging {
+    border-bottom: 1px solid #e6e5e5;
+    padding: 34px 20px;
+}
+.el-breadcrumb__inner a, .el-breadcrumb__inner.is-link{
+    color: #606266 !important;
+}
+.list-content-all .list-right-content .list-product {
+    padding: 18px 0;
+}
+.list-product .goods-tab-item {
+    position: relative;
+    margin: 0 -25px 0 0;
+    font-size: 0;
+    letter-spacing: 0;
+}
+.list-product .goods-tab-item>.swiper-slide {
+    width: 25%;
+    padding: 0 25px 0 0;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 25px;
+}
+.list-product .goods-tab-item .thumbnail {
+    padding: 0 15px 40px;
+    margin: 0;
+    border-radius: 0;
+    border: 1px solid #dadada;
+    position: relative;
+}
+.list-product .goods-tab-item .thumbnail img{
+    width: 100%; 
+}
+.list-product .goods-tab-item .thumbnail .tag{
+    left:-15px;
+}
+.page-list{
+    float:right;
+    margin-bottom: 20px;
+}
